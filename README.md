@@ -1,6 +1,6 @@
 # .𖥔 ݁ ˖ Hi, I'm Simrah .𖥔 ݁ ˖ ✦ 
 Welcome to my GitHub!
-I'm a Computing & IT student at RIT Dubai, passionate about building digital systems that make life easier from the backend to the cloud.
+I'm currently exploring web and mobile development, cloud computing, and system administration. I enjoy turning ideas into projects and I'm always eager to learn something new!
 
             ╱|、
           (˚ˎ 。7  
@@ -23,5 +23,13 @@ I'm a Computing & IT student at RIT Dubai, passionate about building digital sys
  ## Let's Connect ⋆˚✿˖°
  - **Email**: simrahpatel16@gmail.com
  - **LinkedIn**: https://www.linkedin.com/in/simrah-shabandri/ 
-
-<img src="https://github-readme-stats.vercel.app/api?username=SimrahRuqiya&show_icons=true&theme=material-palenight" width="400" height="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimrahRuqiya&layout=compact&theme=material-palenight" width="300" height="300"/>
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=SimrahRuqiya&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000" height="200px"/>
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimrahRuqiya&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000" height="200px"/>
+    </td>
+  </tr>
+</table>
