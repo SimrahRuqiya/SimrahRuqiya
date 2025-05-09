@@ -1,12 +1,11 @@
-# .𖥔 ݁ ˖ Hi, I'm Simrah .𖥔 ݁ ˖ ✦ 
+# .𖥔 ݁ ˖ 𖥔 Hi, I'm Simrah .𖥔 ݁ ˖ ✦ 
 Welcome to my GitHub!
 I'm currently exploring web and mobile development, cloud computing, and system administration. I enjoy turning ideas into projects and I'm always eager to learn something new!
 
             ╱|、
           (˚ˎ 。7  
             |、˜〵          
-            じしˍ,)ノ
-            
+            じしˍ,)ノ            
 ## What I Do ⋆˚✿˖°
 - Learning networking and system administration 
 - Developing web and mobile apps (Spring Boot + Semantic UI)
