@@ -12,7 +12,7 @@ I'm currently exploring web and mobile development, cloud computing, and system 
 - Exploring cloud platforms (Azure, Docker)
 - I enjoy building creative and functional projects — like dashboards, booking systems, and cute games 
 
-## Tech Stack ⋆˚✿˖°
+## Technical Knowledge ⋆˚✿˖°
 - **Languages**: Python, Java, JavaScript, HTML, CSS
 - **Frameworks**: Spring Boot, Semantic UI
 - **Tools**: Git, GitHub, IntelliJ, VS Code
