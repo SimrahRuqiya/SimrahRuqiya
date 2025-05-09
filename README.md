@@ -1,4 +1,4 @@
-# ⋆˚✿˖° Hi, I'm Simrah ⋆˚✿˖°  
+# .𖥔 ݁ ˖ Hi, I'm Simrah .𖥔 ݁ ˖ ✦ 
 Welcome to my GitHub!
 I'm a Computing & IT student at RIT Dubai, passionate about building digital systems that make life easier from the backend to the cloud.
 
@@ -18,10 +18,10 @@ I'm a Computing & IT student at RIT Dubai, passionate about building digital sys
 - **Frameworks**: Spring Boot, Semantic UI
 - **Tools**: Git, GitHub, IntelliJ, VS Code
 - **Database**: MySQL, MariaDB
-- **Cloud & DevOps**: Azure (learning), Docker (basics)
+- **Cloud & DevOps**: Azure (currently learning), Docker (basics)
 
  ## Let's Connect ⋆˚✿˖°
  - **Email**: simrahpatel16@gmail.com
  - **LinkedIn**: https://www.linkedin.com/in/simrah-shabandri/ 
 
-<img src="https://github-readme-stats.vercel.app/api?username=SimrahRuqiya&show_icons=true&theme=material-palenight" width="300" height="300"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimrahRuqiya&layout=compact&theme=material-palenight" width="300" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SimrahRuqiya&show_icons=true&theme=material-palenight" width="400" height="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimrahRuqiya&layout=compact&theme=material-palenight" width="400" height="400"/>
