@@ -25,7 +25,7 @@ I'm a Computing & IT student at RIT Dubai, passionate about building digital sys
  **LinkedIn**: https://www.linkedin.com/in/simrah-shabandri/ 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=SimrahRuqiya&show_icons=true&theme=prussian" width="300"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimrahRuqiya&layout=compact&theme=prussian" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SimrahRuqiya&show_icons=true&theme=prussian" width="400" height="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimrahRuqiya&layout=compact&theme=prussian" width="400" height="400"/>
 
 
 
