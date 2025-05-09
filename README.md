@@ -1,4 +1,4 @@
-# .𖥔 ݁ ˖ 𖥔 Hi, I'm Simrah .𖥔 ݁ ˖ ✦ 
+# .𖥔 ݁ ˖ ✦ Hi, I'm Simrah .𖥔 ݁ ˖ ✦ 
 Welcome to my GitHub!
 I'm currently exploring web and mobile development, cloud computing, and system administration. I enjoy turning ideas into projects and I'm always eager to learn something new!
 
