@@ -8,10 +8,10 @@ I'm a Computing & IT student at RIT Dubai, passionate about building digital sys
             じしˍ,)ノ
             
 ## What I Do ⋆˚✿˖°
-- Learning system administration and networking
+- Learning networking and system administration 
 - Developing web and mobile apps (Spring Boot + Semantic UI)
 - Exploring cloud platforms (Azure, Docker)
-- I enjoy building creative and functional projects — like dashboards, booking systems, and games 
+- I enjoy building creative and functional projects — like dashboards, booking systems, and cute games 
 
 ## Tech Stack ⋆˚✿˖°
 - **Languages**: Python, Java, JavaScript, HTML, CSS
@@ -24,8 +24,4 @@ I'm a Computing & IT student at RIT Dubai, passionate about building digital sys
  - **Email**: simrahpatel16@gmail.com
  - **LinkedIn**: https://www.linkedin.com/in/simrah-shabandri/ 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=SimrahRuqiya&show_icons=true&theme=material-palenight" width="400" height="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimrahRuqiya&layout=compact&theme=material-palenight" width="400" height="400"/>
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=SimrahRuqiya&show_icons=true&theme=material-palenight" width="300" height="300"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimrahRuqiya&layout=compact&theme=material-palenight" width="300" height="300"/>
