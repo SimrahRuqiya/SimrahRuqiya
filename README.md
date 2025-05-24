@@ -17,7 +17,7 @@ I'm currently exploring web and mobile development, cloud computing, and system 
 - **Frameworks**: Spring Boot, Semantic UI
 - **Tools**: Git, GitHub, IntelliJ, VS Code
 - **Database**: MySQL, MariaDB
-- **Cloud & DevOps**: Azure (currently learning), Docker (basics)
+- **Cloud & DevOps**: AZ-900 Certified, Docker 
 
  ## Let's Connect ⋆˚✿˖°
  - **Email**: simrahpatel16@gmail.com
