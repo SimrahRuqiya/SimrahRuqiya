@@ -1,6 +1,6 @@
 # .𖥔 ݁ ˖ ✦ Hi, I'm Simrah .𖥔 ݁ ˖ ✦ 
 Welcome to my GitHub!
-I'm currently exploring web and mobile development, cloud computing, and system administration. I enjoy turning ideas into projects and I'm always eager to learn something new!
+I'm currently exploring networking, cloud computing, web and mobile development and and system administration. I enjoy turning ideas into projects and I'm always eager to learn something new!
 
             ╱|、
           (˚ˎ 。7  
@@ -9,7 +9,7 @@ I'm currently exploring web and mobile development, cloud computing, and system 
 ## What I Do ⋆˚✿˖°
 - Learning networking and system administration 
 - Developing web and mobile apps (Spring Boot + Semantic UI)
-- Exploring cloud platforms (Azure, Docker)
+- Exploring cloud platforms (Azure, AWS, GCP)
 - I enjoy building creative and functional projects — like dashboards, booking systems, and cute games 
 
 ## Technical Knowledge ⋆˚✿˖°
